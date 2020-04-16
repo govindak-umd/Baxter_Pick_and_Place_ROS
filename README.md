@@ -1,10 +1,9 @@
 README File
 _________________________________________________________________________________________
 
-				Project 4 | ENPM 661 | Planning for Autonomous Robots |
 					Baxter Arm Pick and Place using ROS, Python, OMPL, Moveit
 
-						SUBMISSION : April 17, 2020
+						 April 17, 2020
 
 --------------------------------------------------%%-------------------------------------------
 	
