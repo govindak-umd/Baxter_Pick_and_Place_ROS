@@ -4,7 +4,14 @@ ________________________________________________________________________________
 					Baxter Arm Pick and Place using ROS, Python, OMPL, Moveit
 
 						 April 17, 2020
-
+The images from the simulation can be seen here
+<br/>
+![](baxter_2.png)<br/>
+<br/>
+![](Screenshot_1.png)<br/>
+<br/>
+![](baxter_1.png)<br/>
+<br/>
 --------------------------------------------------%%-------------------------------------------
 	
 	GITHUB: 
